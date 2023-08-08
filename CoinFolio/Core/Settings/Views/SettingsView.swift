@@ -2,7 +2,7 @@
 //  SettingsView.swift
 //  SwiftfulCrypto
 //
-//  Created by Nick Sarno on 5/14/21.
+//  Created by Akhil on 5/14/23.
 //
 
 import SwiftUI
@@ -10,10 +10,10 @@ import SwiftUI
 struct SettingsView: View {
     
     let defaultURL = URL(string: "https://www.google.com")!
-    let youtubeURL = URL(string: "https://www.youtube.com/c/swiftfulthinking")!
-    let coffeeURL = URL(string: "https://www.buymeacoffee.com/nicksarno")!
+    let youtubeURL = URL(string: "https://www.google.comg")!
+    let coffeeURL = URL(string: "https://www.google.com")!
     let coingeckoURL = URL(string: "https://www.coingecko.com")!
-    let personalURL = URL(string: "https://www.nicksarno.com")!
+    let personalURL = URL(string: "h")!
     
     var body: some View {
         NavigationView {
@@ -98,7 +98,7 @@ extension SettingsView {
                     .resizable()
                     .frame(width: 100, height: 100)
                     .clipShape(RoundedRectangle(cornerRadius: 20))
-                Text("This app was developed by Nick Sarno. It uses SwiftUI and is written 100% in Swift. The project benefits from multi-threading, publishers/subscribers, and data persistance.")
+                Text("This app was developed by Akhil. It uses SwiftUI and is written 100% in Swift. The project benefits from multi-threading, publishers/subscribers, and data persistance.")
                     .font(.callout)
                     .fontWeight(.medium)
                     .foregroundColor(Color.theme.accent)
