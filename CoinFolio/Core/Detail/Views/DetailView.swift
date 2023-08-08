@@ -1,6 +1,6 @@
 //
 //  DetailView.swift
-//  SwiftfulCrypto
+//  CoinFolio
 //
 //  Created by Akhil on 5/11/23.
 //

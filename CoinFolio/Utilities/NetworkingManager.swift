@@ -1,6 +1,6 @@
 //
 //  NetworkingManager.swift
-//  SwiftfulCrypto
+//  CoinFolio
 //
 //  Created by Akhil on 5/9/23.
 //

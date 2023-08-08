@@ -1,6 +1,6 @@
 //
 //  HapticManager.swift
-//  SwiftfulCrypto
+//  CoinFolio
 //
 //  Created by Akhil on 5/10/23.
 //

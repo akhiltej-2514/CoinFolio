@@ -1,6 +1,6 @@
 //
 //  String.swift
-//  SwiftfulCrypto
+//  CoinFolio
 //
 //  Created by Akhil on 5/14/23.
 //

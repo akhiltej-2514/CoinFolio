@@ -1,6 +1,6 @@
 //
 //  Color.swift
-//  SwiftfulCrypto
+//  CoinFolio
 //
 //  Created by Akhil on 5/8/23.
 //
